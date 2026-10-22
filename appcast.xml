@@ -3,6 +3,17 @@
     <channel>
         <title>Palmette</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 22 Oct 2026 13:37:35 -0700</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/shireenkadhium/palmette-releases/releases/download/v0.1.1/Palmette-0.1.1.dmg" length="5068144" type="application/octet-stream" sparkle:edSignature="QeCzyAflhQyBB2xAMZsTjYIkuDaVJqmYTQOwndQtnVZSTaF0ipkSMMsU3xRLWiH9E6vxnFYcVmZhfg7WqyiAAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/shireenkadhium/palmette-releases/releases/download/v0.1.1/Palmette91-88.delta" sparkle:deltaFrom="88" length="359230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mzPl5TIlPGm/pmO5XxmTvvMUq8SunkUI44kKiior6QK8+MNDOv2qGGZFSD7dQLa4EdiKGq9/FEs1wdgovw9KBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Tue, 20 Oct 2026 17:57:35 -0700</pubDate>
             <sparkle:version>88</sparkle:version>
